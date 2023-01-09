@@ -40,7 +40,7 @@ import {
           <Stack direction={{ xs: "column", sm: "row-reverse"}} spacing={2}>
             <Box display="flex"  sx={{ justifyContent: "center", borderRadius:'50%' }}>
               <Box sx={{borderRadius:'50%'}}>
-                <img src={logo} width="114px" height="123px" alt="logo" />
+                <img src={logo} width="125px" height="123px" alt="logo" />
               </Box>
             </Box>
             <Box>
