@@ -11,7 +11,7 @@ import {
 import { useEffect, useState } from "react";
 import AppTree from "./AppTree";
 import Footer from "./Footer";
-import Sidebar from "./Sidebar";
+import Sidebar from "./SideBar";
 import { Routes, Route, useNavigate, Navigate } from "react-router-dom";
 import AppButtons from "./AppButtons";
 import MDContainer from "../components/MDContainer";
